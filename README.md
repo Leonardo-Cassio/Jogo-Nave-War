@@ -5,3 +5,4 @@
 ### Link do jogo: https://navewar.netlify.app/
 
 ### O jogo se inspira no game retrô Asteroids, no qual o jogador controla uma nave numa área delimitada e atira em asteróides que spawnam aleatoriamente pelo mapa e a cada asteróide destruído, o player ganha 5 pontos.
+
