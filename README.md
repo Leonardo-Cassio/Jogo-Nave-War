@@ -18,4 +18,8 @@
 
 ### Ganhe pontos destruindo asteroides. A cada asteróide destruído, você ganha 5 pontos. 💰
 
+## Registro de Pontuação:
+
+### Ao final de cada jogada, insira o seu nick(nome) no espaço informado e clique no botão de "Reiniciar" para registrar a sua pontuação no banco de dados. 💰
+
 ## Divirta-se jogando Nave War e que a força esteja com você na batalha contra os asteroides! 🚀🌌🔥💥
