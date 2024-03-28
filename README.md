@@ -18,4 +18,4 @@
 
 ### Ganhe pontos destruindo asteroides. A cada asteróide destruído, você ganha 5 pontos. 💰
 
-## Divirta-se jogando Asteroid Destroyer e que a força esteja com você na batalha contra os asteroides! 🚀🌌🔥💥
+## Divirta-se jogando Nave War e que a força esteja com você na batalha contra os asteroides! 🚀🌌🔥💥
